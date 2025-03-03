@@ -15,7 +15,7 @@ The order for scripts' usage is:
 
 **asyn/all-configurations/**: Contains the gsd files for inital and final steps at different conditions. The naming follows the pattern: (prot-spm ratio)-(initial or final state).gsd.
 
-**tau/**: Contains the HOOMD scripts for running the Tau simulations with different SPM ratios using dual epsilon values. The usage of the scripts is same as the ones in **aSyn/**.
+**tau/**: Contains the HOOMD scripts for running the Tau simulations with different SPM ratios using dual epsilon values. The usage of the scripts is same as the ones in **asyn/**.
 
 **tau/all-configurations**: Contains the gsd files for inital and final steps for each system. The naming follows the pattern: (prot-spm ratio)-(initial or final state).gsd.
 
