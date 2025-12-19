@@ -23,7 +23,7 @@ The order for scripts' usage is:
 
 **all-densities.txt**: Contains the density in mg/mL unit of condensed phase region in the phase separation simulations for all the systems.  
 
-**karanicolas_dihe_parm.dat**: dihedral potential parameters from Karanicolas and Brooks, Protein Sci. 11:2351 (2022).
+**karanicolas_dihe_parm.dat**: dihedral potential parameters from Karanicolas and Brooks, Protein Sci. 11:2351 (2002).
 
 
 
